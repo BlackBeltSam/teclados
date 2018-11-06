@@ -16,32 +16,53 @@ El teclado estandar  fue desarrollado por IBM en 1987 y está dividido en 4 bloq
 ## Tipos de teclados:
 * _Según su forma física_:
     * **Teclado ergonómico**: Diseñados para una mayor comodidad, ayuda a tener una posición más relajada.      
-     ![ergonomigo](ergonomico.jpg) 
+    
+         ![ergonomigo](ergonomico.jpg) 
+        
     * **Teclado multimedia**: Añaden teclas especiales para orientadas a algunos programas como el correo electrónico, la calculadora o reproductores multimedia.   
+    
      ![multimedia](multimedia.jpg) 
+   
     * **Teclado flexible**: Teclados de plástico o silicona que pueden ser doblados e incluso adaptarse a superficies irregulares. Pueden ser conectados a dispositivos portátiles y teléfonos inteligentes.    
          
          ![flexible](flexible.jpg) 
+   
     * **Teclado en pantalla**: También llamados teclados virtuales, se utilizan mayoritariamente en dispositivos móviles.
          
          ![virtual](virtual.jpg)
+   
     * **Teclado de proyección**: Similares a un teclado estandar pero con laser.
     
-        <img src="proyeccion.jpg" height="200">
+    <img src="proyeccion.jpg" height="200">
+
 * _Según la tecnología de sus teclas_:
     * **Teclados de cúpula de goma**.
     * **Teclados de membrana**.
     * **Teclados capacitivos**.
     * **Teclados de contacto metálico**.
     * **Teclados mecánicos**.
-* _Según el puerto de conexión_.
+
+
+* _Según el puerto de conexión_:
     * **Teclado con conector paralelo**: Obsoleto.
+
+        ![paralelo](paralelo.jpg)
+
     * **Telado con conector DIN o PS/2**: El conector DIN fue usado por pocos ordenadores y se remplazó rapidamente debido principalmente a su tamaño. El PS/2, también llamado mini DIN es similar pero de un tamaño reducido. Aún es utilizado hoy en dia pero ya está siendo sustituido por el conector USB. 
-    <img src="din.jpg" height="200"> <img src="ps2.jpg">
+   
+   
+    <img src="din.jpg" height="200">   <img src="ps2.jpg">
+    
     * **Teclado con conector USB**: Se comenzó a ver tras la estandarización del USB pero no era muy usado hasta la salida del iMac, el cual traía de serie tanto teclado como ratón con conexión USB.
     * **Teclado inalámbrico**: Son teclados en los que la comunicación entre el teclado y el ordenador se efectua mediante infrarrojos, ondas de radio o Bluetooth.
+
+    ![adaptadores](adap.jpg)
     
 
+
+       
+
+  
 
        
 

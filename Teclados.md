@@ -43,7 +43,6 @@ El teclado estandar  fue desarrollado por IBM en 1987 y está dividido en 4 bloq
     * **Teclados mecánicos**.
     
     ![mecanico](mecanico.gif)
-    
     ![membrana](membrana.gif)
 
 

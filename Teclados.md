@@ -41,6 +41,10 @@ El teclado estandar  fue desarrollado por IBM en 1987 y está dividido en 4 bloq
     * **Teclados capacitivos**.
     * **Teclados de contacto metálico**.
     * **Teclados mecánicos**.
+    
+    ![mecanico](mecanico.gif)
+    
+    ![membrana](membrana.gif)
 
 
 * _Según el puerto de conexión_:
